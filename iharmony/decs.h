@@ -55,7 +55,7 @@
 #define KAPPA (150)
 
 /* choose: */
-#define ELECTRON_DIST (THERMAL)
+#define ELECTRON_DIST (NONTHERMAL)
 
 /* parameters specific to particular distribution: */
 #if (ELECTRON_DIST == THERMAL)
