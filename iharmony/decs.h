@@ -70,7 +70,7 @@
         #define GAM2 (1000.)
         #define COEFF_INT (0.49999950000000000000)
    #endif
-  // #if 0
+   //#if 0
         #define INDEX (2.2)
         #define GAM1 (1.)
         #define GAM2 (100.)
